@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Среды разработки
+.vscode/
+.idea/
+
+# Системные файлы Windows / macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
